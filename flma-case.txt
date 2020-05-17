@@ -1,0 +1,214 @@
+Hi Paul,
+
+We are not using this anymore as the SOC team is monitoring the APIs on Runscope for any API failures. I think we can go ahead and delete them.
+
+@Ramnadh,
+Please go ahead and delete the instances referenced below. 
+
+
+Thanks & Regards,
+Padhu
+_________________________________________________
+
+IBM INDIA PVT LTD
+Embassy Golf Link, A& B Block, Embassy Cypress Point 
+Koramangala - Off Indiranagar ring Road
+Bangalore -560071.
+E-mail: pvelling@in.ibm.com
+Direct No: 91-80-49491714
+Mobile : 91-9916449602 
+
+
+Paul Hooton---13-05-2020 18:15:01---HI,    So if you are using the Event Streams service and wish to continue then it needs to be migrat
+
+From: Paul Hooton/UK/IBM
+To: Padmanaban Vellingiri/India/IBM@IBMIN
+Cc: Vineet Khurana2/US/IBM@IBM, Robert E Burgess/Rochester/IBM@IBMUS, ruarnold@in.ibm.com, Ramnadh Nalla04/India/Contr/IBM@IBMIN, Tejas R Patki/India/IBM@IBMIN
+Date: 13-05-2020 18:15
+Subject: Re: Fw: Delhaize America / IBM Event Streams Classic Plan
+
+
+
+HI,
+
+   So if you are using the Event Streams service and wish to continue then it needs to be migrated. If not it can be deleted. For reference here are the ones that are still being billed
+
+
+Instance ID                           Space GUID                           Organisation GUID
+4a9fc938-c8b8-4a17-a33a-6ade9e0b59c1  fea1a68a-5654-4754-92fd-bc6a4419e927 bdd59aab-8ffa-404f-90c5-b7912f85a613
+de24d89f-d364-49fa-a901-457f0b4df0e4  1507c380-32ae-4f7f-b3a6-ea9fadfb80e5 bdd59aab-8ffa-404f-90c5-b7912f85a613
+d65336f5-836c-4ec3-ac47-836efabde387  01d944f1-dacd-4696-9b18-c355d33086df bdd59aab-8ffa-404f-90c5-b7912f85a613
+3c2bbe02-46d7-45ef-88c7-e2c3ac1bcb0a  1507c380-32ae-4f7f-b3a6-ea9fadfb80e5 bdd59aab-8ffa-404f-90c5-b7912f85a613
+
+But in all cases no messages are being sent so it looks like they may be inactive and can be deleted,
+
+Thanks,
+Paul
+
+Paul Hooton
+Event Streams for IBM Cloud Program Director
+IBM Cloud - Event Services
+IBM Hursley
+Int Tel  : 37247525
+N.B. I work compressed hours Mon-Thur. I am not in the office Friday.
+Ext Tel: +44-1962 817525
+
+
+Padmanaban Vellingiri---13/05/2020 04:08:54---Hi Paul, Ramnadh is able to login and he is able to view the dashboard like Cloud Foundry apps -3  a
+
+From: Padmanaban Vellingiri/India/IBM
+To: Paul Hooton/UK/IBM@IBMGB
+Cc: Vineet Khurana2/US/IBM@IBM, Robert E Burgess/Rochester/IBM@IBMUS, ruarnold@in.ibm.com, Ramnadh Nalla04/India/Contr/IBM@IBMIN, Tejas R Patki/India/IBM@IBMIN
+Date: 13/05/2020 04:08
+Subject: Re: Fw: Delhaize America / IBM Event Streams Classic Plan
+
+
+
+Hi Paul,
+
+Ramnadh is able to login and he is able to view the dashboard like Cloud Foundry apps -3  and Cloud Foundry services - 20 and the status showing provisioned (pl see the attached screen shots).  Please instruct him if any action need to be taken on this. Thanks!
+
+
+ [attachment "Delhaize services.JPG" deleted by Paul Hooton/UK/IBM]    [attachment "Delhaize1.JPG" deleted by Paul Hooton/UK/IBM] 
+
+Thanks & Regards,
+Padhu
+_________________________________________________
+
+IBM INDIA PVT LTD
+Embassy Golf Link, A& B Block, Embassy Cypress Point 
+Koramangala - Off Indiranagar ring Road
+Bangalore -560071.
+E-mail: pvelling@in.ibm.com
+Direct No: 91-80-49491714
+Mobile : 91-9916449602 
+
+
+
+Paul Hooton---12-05-2020 20:17:14---its an ibm cloud account so he should log in with his w3id and password.  Paul Hooton
+
+From: Paul Hooton/UK/IBM
+To: Padmanaban Vellingiri/India/IBM@IBMIN
+Cc: Vineet Khurana2/US/IBM@IBM, Robert E Burgess/Rochester/IBM@IBMUS, ruarnold@in.ibm.com, Ramnadh Nalla04/India/Contr/IBM@IBMIN, Tejas R Patki/India/IBM@IBMIN
+Date: 12-05-2020 20:17
+Subject: Re: Fw: Delhaize America / IBM Event Streams Classic Plan
+
+
+
+its an ibm cloud account so he should log in with his w3id and password.
+
+
+Paul Hooton
+Event Streams for IBM Cloud Program Director
+IBM Cloud - Event Services
+IBM Hursley
+Int Tel  : 37247525
+N.B. I work compressed hours Mon-Thur. I am not in the office Friday.
+Ext Tel: +44-1962 817525
+
+
+Padmanaban Vellingiri---12/05/2020 15:39:06---Hi Paul, Thanks for the information.
+
+From: Padmanaban Vellingiri/India/IBM
+To: Paul Hooton/UK/IBM@IBMGB
+Cc: Vineet Khurana2/US/IBM@IBM, Robert E Burgess/Rochester/IBM@IBMUS, ruarnold@in.ibm.com, Ramnadh Nalla04/India/Contr/IBM@IBMIN, Tejas R Patki/India/IBM@IBMIN
+Date: 12/05/2020 15:39
+Subject: Re: Fw: Delhaize America / IBM Event Streams Classic Plan
+
+
+
+Hi Paul,
+
+Thanks for the information. 
+
+Ramnadh is from SOC support team and he only monitor the APIs for Delhaize I am not sure how the account is showing under his name. Do we have any details on how to login to this account and view the details, so that we would ask Ramnadh to check. Also the application is moved to mulesoft, I don't think Delhaize is using it any more.
+
+Thanks & Regards,
+Padhu
+_________________________________________________
+
+IBM INDIA PVT LTD
+Embassy Golf Link, A& B Block, Embassy Cypress Point 
+Koramangala - Off Indiranagar ring Road
+Bangalore -560071.
+E-mail: pvelling@in.ibm.com
+Direct No: 91-80-49491714
+Mobile : 91-9916449602 
+
+
+
+Tejas R Patki---12-05-2020 19:22:54---+ Padhu from AppOps team. Regards,
+
+From: Tejas R Patki/India/IBM
+To: Paul Hooton/UK/IBM@IBMGB, Padmanaban Vellingiri/India/IBM@IBMIN
+Cc: Vineet Khurana2/US/IBM@IBM, Robert E Burgess/Rochester/IBM@IBMUS, ruarnold@in.ibm.com, Ramnadh Nalla04/India/Contr/IBM@IBMIN
+Date: 12-05-2020 19:22
+Subject: Re: Fw: Delhaize America / IBM Event Streams Classic Plan
+
+
+
++ Padhu from AppOps team.
+
+Regards,
+Tejas Patki
+Delivery Project Executive
+IBM Certified Senior PM, PMP®, CSM
+Email: tejpatki@in.ibm.com
+
+
+Paul Hooton---05/12/2020 09:46:25 AM---Thanks Tejas. Event Streams was previously called MessageHub? Perhaps that rings a bell?
+
+From: Paul Hooton/UK/IBM
+To: Tejas R Patki/India/IBM@IBMIN
+Cc: Vineet Khurana2/US/IBM@IBM, Robert E Burgess/Rochester/IBM@IBMUS, ruarnold@in.ibm.com, Ramnadh Nalla04/India/Contr/IBM@IBMIN
+Date: 05/12/2020 09:46 AM
+Subject: Re: Fw: Delhaize America / IBM Event Streams Classic Plan
+
+
+
+Thanks Tejas.
+
+Event Streams was previously called MessageHub? Perhaps that rings a bell?
+
+The account is owned by ramnadh so he should be able to log on and see the service instances and therefore know who is using them?
+
+Here is the info...
+
+
+Thanks,
+Paul
+Paul Hooton
+Event Streams for IBM Cloud Program Director
+IBM Cloud - Event Services
+IBM Hursley
+Int Tel  : 37247525
+N.B. I work compressed hours Mon-Thur. I am not in the office Friday.
+Ext Tel: +44-1962 817525
+
+
+Tejas R Patki---12/05/2020 14:30:59---Paul, Unfortunately, we have not been able to get more information on the use of Event Streams at Ah
+
+From: Tejas R Patki/India/IBM
+To: Paul Hooton/UK/IBM@IBMGB
+Cc: Vineet Khurana2/US/IBM@IBM, Robert E Burgess/Rochester/IBM@IBMUS
+Date: 12/05/2020 14:30
+Subject: Re: Fw: Delhaize America / IBM Event Streams Classic Plan
+
+
+
+Paul,
+Unfortunately, we have not been able to get more information on the use of Event Streams at Ahold Delhaize. I am copying Bob who is our GTS client exec and Vineet, the GBS DPE on this mail. If there is more information you can provide, they can try to help.
+
+Regards,
+Tejas Patki
+Delivery Project Executive
+IBM Certified Senior PM, PMP®, CSM
+Email: tejpatki@in.ibm.com
+
+
+Vineet Khurana2---05/11/2020 09:59:03 PM---Tejas, a lot of long emails, no outcome....
+
+From: Vineet Khurana2/US/IBM
+To: Tejas R Patki/India/IBM@IBMIN
+Date: 05/11/2020 09:59 PM
+Subject: Re: Fw: Delhaize America / IBM Event Streams Classic Plan
