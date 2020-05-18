@@ -4,7 +4,12 @@ pipeline {
     stages {
         stage('Build') {
             steps {
-                echo 'Building..'
+                pipeline {
+                      options {
+                              buildDiscarder(logRotator(numToKeepStr: '30', artifactNumToKeepStr: '30'))
+  }
+  ...
+}
             }
         }
         stage('Test') {
